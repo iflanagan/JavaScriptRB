@@ -7,7 +7,7 @@ var _rollbarConfig = {
 	        client: {
 		      javascript: {z``
 		        source_map_enabled: true,
-		        code_version: "5810a3a90a541e7d7fb886c80de8133043126613",
+		        code_version: "338dbb05082fe486b267922dcc0e69dc1224c25e",
 		        guess_uncaught_frames: true
 		      }
 		    }
